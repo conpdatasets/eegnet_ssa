@@ -130,6 +130,14 @@
 			]
 		},
 		{
+      		"category": "downloadOptions",
+      		"values": [
+        		{
+          			"value": "offsite"
+        		}		
+      		]
+    	},
+		{
 			"category": "CONP_status",
 			"values": [
 				{
